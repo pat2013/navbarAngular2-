@@ -1,0 +1,1 @@
+{"version":3,"file":"app.about.js","sourceRoot":"","sources":["app.about.ts"],"names":[],"mappings":";;;;;;;;;;AAAA,qBAA0B,eAAe,CAAC,CAAA;AAM1C;IAGE;QACE,IAAI,CAAC,WAAW,GAAG,kBAAkB,CAAC;IACxC,CAAC;IATH;QAAC,gBAAS,CAAC;YACT,QAAQ,EAAE,UAAU;YACpB,WAAW,EAAE,wBAAwB;SACtC,CAAC;;sBAAA;IAOF,qBAAC;AAAD,CAAC,AAND,IAMC;AANY,sBAAc,iBAM1B,CAAA"}
